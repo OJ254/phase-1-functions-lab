@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks(someValue) {
-  // Define logic here, e.g., HQ is on 42nd street
+  // Define logic
   const hqLocation = 42;
   return Math.abs(someValue - hqLocation);
 }
